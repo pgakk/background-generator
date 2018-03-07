@@ -1,2 +1,1 @@
-# background-generator
-Tool that randomly generates colors for background
+Tool that randomly generates colors for background 
